@@ -140,7 +140,7 @@ That is about 85 g of leaf and 15 g of starch. Air-dried leaves hold about 9% mo
 8. Assemble the mould base and walls
 9. Fill the mould in layers, leaving a little room at the top to push the press in level.[^1]
 10. Put the whole mould in the vise or press and compress as far as it will go. To increase density stop periodically to add more pulp.[^1]
-11. Leave it under pressure for about a day.[1]
+11. Leave it under pressure for about a day.[^1]
 12. Pry the press out slowly, because it may suction onto the pulp.[^1]
 13. Leave the mould to dry for another day or more, then remove the base. The part shrinks as it dries which will loosen it from the walls.[^1]
 14. Finish drying with a fan, or in an oven at 70 to 80 °C.[^2] *Oven drying needs a temperature safe plastic - not PLA.
