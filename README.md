@@ -73,11 +73,7 @@ The recipes are built on the papers in [`Docs/Researsch`](Docs/Researsch).
 
 ## Bill of materials
 
-| Item | Qty | Used for | Source / link | Cost |
-| --- | --- | --- | --- | --- |
-| TODO | | | | |
-
-The synced parts list is in [`BOM.md`](BOM.md).
+This project can be done with equipment I all have at home leftover funds will be spent on household items at the supermarket like baking soda and rice 
 
 ## Help
 
