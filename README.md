@@ -1,7 +1,9 @@
 # Natural-Moulded-Pulp-Forming
 ### Reusing natural fibers with 3d printing to create new things!
 A small research-and-build project on **pressing waste fibre (cardboard, paper, fallen leaves) into solid 3D objects** using reusable, 3D printed, 3-part moulds, a printer, a blender and a vise (or press if you have).
-<img width="685" height="674" alt="Screenshot 2026-10-18 at 13 31 42" src="https://github.com/user-attachments/assets/0f5688d2-95c9-4421-823a-bd62a82e91aa" />
+<img width="970" height="933" alt="Screenshot 2026-10-18 at 18 45 12" src="https://github.com/user-attachments/assets/155f1c0a-1058-4497-967e-63d1d5f1e0cd" />
+<img width="911" height="898" alt="Screenshot 2026-10-18 at 18 48 48" src="https://github.com/user-attachments/assets/2d3dbde0-3833-4108-a421-b659591aba86" />
+
 
 ## What is this?
 
