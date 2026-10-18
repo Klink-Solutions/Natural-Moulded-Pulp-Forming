@@ -72,8 +72,13 @@ The recipes are built on the papers in [`Docs/Researsch`](Docs/Researsch).
 4. **Press and dry** following the recipe.
 
 ## Bill of materials
+| Item | Qty | Supplier | Cost/item | Total Cost | link |
+| --- | --- | --- | --- | --- | --- |
+| PLA+ Lime green|1|PRUSA |$17.99 | $17.99 | https://www.prusa3d.com/product/pla-lime-green/ |
+| Estimated total shipping | 1 |  | $6.15 |
 
-This project can be done with equipment I all have at home leftover funds will be spent on household items at the supermarket like baking soda and rice 
+
+This project can be done with equipment I all have at home leftover funds will be spent on household items at the supermarket like baking soda and rice for the pulp making process.
 
 ## Help
 
